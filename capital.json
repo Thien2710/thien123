@@ -1,65 +1,63 @@
-json
+
 {
-  "provinces": [
-    {
+    "HN": {
       "name": "Hanoi",
-      "capital": "HN",
+      "capital": "Hanoi",
       "lat": "21.028333",
       "long": "105.853333"
     },
-    {
+    "HCMC": {
       "name": "Ho Chi Minh City",
-      "capital": "HCMC",
+      "capital": "Ho Chi Minh City",
       "lat": "10.769444",
       "long": "106.681944"
     },
-    {
+    "DN": {
       "name": "Da Nang",
-      "capital": "DN",
+      "capital": "Da Nang",
       "lat": "16.0766667",
       "long": "108.2227778"
     },
-    {
+    "HP": {
       "name": "Hai Phong",
-      "capital": "HP",
+      "capital": "Hai Phong",
       "lat": "20.866389",
       "long": "106.6825"
     },
-    {
+    "QNI": {
       "name": "Quang Ninh",
-      "capital": "QNI",
+      "capital": "Quang Ninh",
       "lat": "21.250982",
       "long": "107.193604"
     },
-    {
+    "LC": {
       "name": "Lao Cai",
-      "capital": "LC",
+      "capital": "Lao Cai",
       "lat": "22.379997",
       "long": "104.15786"
     },
-    {
+    "BD": {
       "name": "Binh Dinh",
-      "capital": "BD",
+      "capital": "Binh Dinh",
       "lat": "14.195163",
       "long": "108.880005"
     },
-    {
+    "KH": {
       "name": "Khanh Hoa",
-      "capital": "KH",
+      "capital": "Khanh Hoa",
       "lat": "12.073058",
       "long": "109.047768"
     },
-    {
+    "DT": {
       "name": "Dong Thap",
-      "capital": "DT",
+      "capital": "Dong Thap",
       "lat": "10.575572",
       "long": "105.682983"
     },
-    {
+    "CT": {
       "name": "Can Tho",
-      "capital": "CT",
+      "capital": "Can Tho",
       "lat": "10.032415",
       "long": "105.784092"
     }
-  ]
 }
