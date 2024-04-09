@@ -1,0 +1,65 @@
+json
+{
+  "provinces": [
+    {
+      "name": "Hanoi",
+      "capital": "HN",
+      "lat": "21.028333",
+      "long": "105.853333"
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "capital": "HCMC",
+      "lat": "10.769444",
+      "long": "106.681944"
+    },
+    {
+      "name": "Da Nang",
+      "capital": "DN",
+      "lat": "16.0766667",
+      "long": "108.2227778"
+    },
+    {
+      "name": "Hai Phong",
+      "capital": "HP",
+      "lat": "20.866389",
+      "long": "106.6825"
+    },
+    {
+      "name": "Quang Ninh",
+      "capital": "QNI",
+      "lat": "21.250982",
+      "long": "107.193604"
+    },
+    {
+      "name": "Lao Cai",
+      "capital": "LC",
+      "lat": "22.379997",
+      "long": "104.15786"
+    },
+    {
+      "name": "Binh Dinh",
+      "capital": "BD",
+      "lat": "14.195163",
+      "long": "108.880005"
+    },
+    {
+      "name": "Khanh Hoa",
+      "capital": "KH",
+      "lat": "12.073058",
+      "long": "109.047768"
+    },
+    {
+      "name": "Dong Thap",
+      "capital": "DT",
+      "lat": "10.575572",
+      "long": "105.682983"
+    },
+    {
+      "name": "Can Tho",
+      "capital": "CT",
+      "lat": "10.032415",
+      "long": "105.784092"
+    }
+  ]
+}
