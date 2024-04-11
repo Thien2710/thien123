@@ -1,0 +1,64 @@
+
+{
+    "HCM": {
+      "name": "Ho Chi Minh City",
+      "province": "Ho Chi Minh",
+      "latitude": 10.762622,
+      "longitude": 106.660172
+    },
+    "HN": {
+      "name": "Hanoi",
+      "province": "Hanoi",
+      "latitude": 21.028511,
+      "longitude": 105.854444
+    },
+    "DN": {
+      "name": "Da Nang",
+      "province": "Da Nang",
+      "latitude": 16.054407,
+      "longitude": 108.202164
+    },
+    "HP": {
+      "name": "Hai Phong",
+      "province": "Hai Phong",
+      "latitude": 20.844911,
+      "longitude": 106.688084
+    },
+    "CT": {
+      "name": "Can Tho",
+      "province": "Can Tho",
+      "latitude": 10.045219,
+      "longitude": 105.746857
+    },
+    "NT": {
+      "name": "Nha Trang",
+      "province": "Khanh Hoa",
+      "latitude": 12.238791,
+      "longitude": 109.196748
+    },
+    "H": {
+      "name": "Hue",
+      "province": "Thua Thien Hue",
+      "latitude": 16.463713,
+      "longitude": 107.590866
+    },
+    "VT": {
+      "name": "Vung Tau",
+      "province": "Ba Ria-Vung Tau",
+      "latitude": 10.346972,
+      "longitude": 107.084322
+    },
+    "HL": {
+      "name": "Ha Long",
+      "province": "Quang Ninh",
+      "latitude": 20.952853,
+      "longitude": 107.073122
+    },
+    "PT": {
+      "name": "Phan Thiet",
+      "province": "Binh Thuan",
+      "latitude": 10.933210,
+      "longitude": 108.287890
+    }
+  
+}
